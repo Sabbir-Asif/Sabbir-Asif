@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md. Sabbir Hosen</h1>
-<p>Studying Software Engineering, University of Dhaka</p>
+<p>Studying Software Engineering at University of Dhaka</p>
 <h3 align="center"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabbir-asif&label=Profile%20views&color=0e75b6&style=flat" alt="sabbir-asif" /> </p>
@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Bangla NLP**
 
-- 🌱 I’m currently learning **React.js, Node.js**
+- 🌱 I’m currently learning **ML, Web-dev**
 
 - 📫 How to reach me **bsse1333@iit.du.ac.bd**
 
