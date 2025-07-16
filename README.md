@@ -9,10 +9,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sabbir-hosen-2a35b02b0/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bsse1333@iit.du.ac.bd) 
 
 ## 💡 About Me
-- 🎓 I'm currently pursuing **BSc in Software Engineering** at the University of Dhaka (IIT).
-- 🌱 Currently deepening my skills in **TypeScript**, **Prisma**, and **containerized deployments with Docker**.
-- 🧠 Fascinated by **Natural Language Processing**, **Web Security**, and **Full-stack Web Applications**.
-- 🛠️ I love building side projects and exploring modern web technologies.
+- I'm currently pursuing **BSc in Software Engineering** at the University of Dhaka (IIT).
+-  Currently deepening my skills in **TypeScript**, **Prisma**, and **containerized deployments with Docker**.
+-  Fascinated by **Natural Language Processing**, **Web Security**, and **Full-stack Web Applications**.
+- I love building side projects and exploring modern web technologies.
 
 
 # 💻 Tech Stack:
