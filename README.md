@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Md. Sabbir Hosen</h1>
 
 <p align="center">
-  <b>Associate Software Engineer at Cefalo</b> <br/>
-  <b>BSc in Software Engineering at University of Dhaka</b> <br/>
+  Associate Software Engineer at Cefalo <br/>
+  BSc in Software Engineering at University of Dhaka <br/>
   Passionate about Web Development, Cybersecurity, and Natural Language Processing (NLP)
 </p>
 
