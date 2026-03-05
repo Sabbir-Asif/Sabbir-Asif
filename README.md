@@ -3,7 +3,7 @@
 <p align="center">
   Associate Software Engineer at Cefalo <br/>
   BSc in Software Engineering at University of Dhaka <br/>
-  Passionate about Web Development, Cybersecurity, and Natural Language Processing (NLP)
+  Passionate about Web Development, Cybersecurity, and Machine Learning
 </p>
 
 ## 🌐 Socials:
@@ -12,7 +12,7 @@
 ## 💡 About Me
 - I'm currently pursuing **BSc in Software Engineering** at the University of Dhaka (IIT).
 -  Currently deepening my skills in **TypeScript**, **Prisma**, and **containerized deployments with Docker**.
--  Fascinated by **Natural Language Processing**, **Web Security**, and **Full-stack Web Applications**.
+-  Fascinated by **Machine Learning**, **Web Security**, and **Full-stack Web Applications**.
 - I love building side projects and exploring modern web technologies.
 
 
